@@ -1,0 +1,9 @@
+------------------------In Anaconda Prompt---------------------------
+
+cd C:\Users\Personal\OneDrive\Desktop\AI-Air-Drawing
+
+conda activate airdraw
+
+conda deactivate
+
+python air_draw.py
